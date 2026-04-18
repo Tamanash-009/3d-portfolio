@@ -11,7 +11,7 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://linkedin.com/in/tamanash-chakraborty"
+                href="https://linkedin.com/in/tamanashchakraborty"
                 target="_blank"
                 rel="noreferrer"
                 data-cursor="disable"
@@ -35,7 +35,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="mailto:tamanash.chakraborty009@gmail.com"
+              href="mailto:chakrabortytamanash@gmail.com"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"

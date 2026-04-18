@@ -46,7 +46,7 @@ const Navbar = () => {
           TC
         </a>
         <a
-          href="https://linkedin.com/in/tamanash-chakraborty"
+          href="https://linkedin.com/in/tamanashchakraborty"
           className="navbar-connect"
           data-cursor="disable"
           target="_blank"

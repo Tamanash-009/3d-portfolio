@@ -78,7 +78,7 @@ const SocialIcons = () => {
         </span>
         <span>
           <a
-            href="mailto:tamanash.chakraborty009@gmail.com"
+            href="mailto:chakrabortytamanash@gmail.com"
             target="_blank"
             rel="noreferrer"
           >
