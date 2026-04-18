@@ -88,7 +88,7 @@ const SocialIcons = () => {
       </div>
       <a
         className="resume-button"
-        href="/Tamanash_Chakraborty.pdf"
+        href="https://drive.google.com/uc?export=download&id=1lKOcd8gezStjUOkov40zzaPNmOQ4v9Le"
         target="_blank"
         rel="noreferrer"
       >
