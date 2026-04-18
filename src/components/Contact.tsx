@@ -20,8 +20,8 @@ const Contact = () => {
               </a>
             </p>
             <h4>Education</h4>
-            <p>BCA, Brainware University — 2023–Present</p>
-            <p>AI & Data Science Program — 2023–Present</p>
+            <p>BCA, Brainware University — 2025–Present</p>
+            <p>AI & Data Science Program — 2025–Present</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>

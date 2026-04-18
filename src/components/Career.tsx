@@ -31,7 +31,7 @@ const Career = () => {
                 <h4>Projects</h4>
                 <h5>Various</h5>
               </div>
-              <h3>2023–NOW</h3>
+              <h3>2025–NOW</h3>
             </div>
             <p>
               Built multiple AI/ML and full-stack projects including Whether weather dashboard,
@@ -44,7 +44,7 @@ const Career = () => {
                 <h4>Ambassador</h4>
                 <h5>UNLOX & LetsUpgrade</h5>
               </div>
-              <h3>2023–NOW</h3>
+              <h3>2025–NOW</h3>
             </div>
             <p>
               Technology community ambassador, organizing events and helping fellow students
