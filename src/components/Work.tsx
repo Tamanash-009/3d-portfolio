@@ -5,6 +5,13 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
+    title: "Portfolio",
+    category: "3D Portfolio Website",
+    tools: "React, Three.js, GSAP, Framer Motion",
+    image: "/images/placeholder.webp",
+    link: "https://portfolio-3d-tamanash.vercel.app",
+  },
+  {
     title: "Whether",
     category: "Weather Dashboard",
     tools: "React, Vite, Tailwind CSS, Framer Motion",
@@ -24,13 +31,6 @@ const projects = [
     tools: "Python, TensorFlow, Keras",
     image: "/images/placeholder.webp",
     link: "https://github.com/Tamanash-009/handwritten-digit-ai",
-  },
-  {
-    title: "CampusAI",
-    category: "Smart Campus Assistant",
-    tools: "React, Python, AI/ML",
-    image: "/images/placeholder.webp",
-    link: "https://github.com/Tamanash-009/campusai",
   },
 ];
 
