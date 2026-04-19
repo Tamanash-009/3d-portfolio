@@ -10,16 +10,6 @@ You want a **GitHub-optimized README**—clean, scannable, and impressive at fir
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <img src="https://via.placeholder.com/900x500?text=3D+Portfolio+Preview" alt="Portfolio Preview" />
-</p>
-
-> *(Replace this with an actual screenshot or GIF for maximum impact)*
-
----
-
 ## ✨ Key Features
 
 * 🎯 Interactive **3D character scene**
