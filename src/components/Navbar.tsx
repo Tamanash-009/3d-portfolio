@@ -50,7 +50,7 @@ const Navbar = () => {
           className="navbar-connect"
           data-cursor="disable"
           target="_blank"
-          rel="noreferrer"
+          rel="noopener noreferrer"
         >
           linkedin.com/in/tamanash-chakraborty
         </a>
