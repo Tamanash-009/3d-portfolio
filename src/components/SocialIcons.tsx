@@ -62,7 +62,7 @@ const SocialIcons = () => {
           <a
             href="https://github.com/Tamanash-009"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             <FaGithub />
           </a>
@@ -71,7 +71,7 @@ const SocialIcons = () => {
           <a
             href="https://linkedin.com/in/tamanash-chakraborty"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             <FaLinkedinIn />
           </a>
@@ -80,7 +80,7 @@ const SocialIcons = () => {
           <a
             href="mailto:chakrabortytamanash@gmail.com"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             <FaEnvelope />
           </a>
@@ -90,7 +90,7 @@ const SocialIcons = () => {
         className="resume-button"
         href="https://drive.google.com/uc?export=download&id=1lKOcd8gezStjUOkov40zzaPNmOQ4v9Le"
         target="_blank"
-        rel="noreferrer"
+        rel="noopener noreferrer"
       >
         <HoverLinks text="RESUME" />
         <span>

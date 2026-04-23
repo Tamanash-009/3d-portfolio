@@ -13,7 +13,7 @@ const Contact = () => {
               <a
                 href="https://www.linkedin.com/in/tamanashchakraborty"
                 target="_blank"
-                rel="noreferrer"
+                rel="noopener noreferrer"
                 data-cursor="disable"
               >
                 LinkedIn — tamanash-chakraborty
@@ -28,7 +28,7 @@ const Contact = () => {
             <a
               href="https://github.com/Tamanash-009"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
@@ -37,7 +37,7 @@ const Contact = () => {
             <a
               href="mailto:chakrabortytamanash@gmail.com"
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
